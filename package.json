@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "core-js": "^3.4.4",
+    "cropperjs": "^1.5.6",
+    "tesseract.js": "^2.0.2",
     "vue": "^2.6.10",
     "vuetify": "^2.1.0"
   },
@@ -34,7 +36,9 @@
       "plugin:vue/essential",
       "eslint:recommended"
     ],
-    "rules": {},
+    "rules": {
+      "no-console": "off"
+    },
     "parserOptions": {
       "parser": "babel-eslint"
     }
