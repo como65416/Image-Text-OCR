@@ -12,7 +12,7 @@
     "cropperjs": "^1.5.6",
     "tesseract.js": "^2.0.2",
     "vue": "^2.6.10",
-    "vuetify": "^2.1.0"
+    "vuetify": "^2.6.10"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^4.1.0",
